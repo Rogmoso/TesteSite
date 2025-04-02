@@ -1,0 +1,31 @@
+[2025-04-01T17:02:42.556Z] - Iniciando teste...
+[2025-04-01T17:02:46.579Z] - Página carregada com sucesso.
+[2025-04-01T17:02:46.580Z] - Erro durante o teste: vehicleDataPage is not defined
+[2025-04-01T17:02:46.586Z] - Finalizando teste.
+[2025-04-01T17:03:10.162Z] - Iniciando teste...
+[2025-04-01T17:03:14.079Z] - Página carregada com sucesso.
+[2025-04-01T17:03:14.080Z] - Erro durante o teste: vehicleDataPage is not defined
+[2025-04-01T17:03:14.086Z] - Finalizando teste.
+[2025-04-01T17:03:41.714Z] - Iniciando teste...
+[2025-04-01T17:03:45.728Z] - Página carregada com sucesso.
+[2025-04-01T17:03:45.729Z] - Finalizando teste.
+[2025-04-01T17:13:46.668Z] - Página carregada com sucesso.
+[2025-04-01T17:13:46.710Z] - Validação do campo "Make" concluída.
+[2025-04-01T17:13:47.091Z] - Formulário preenchido na aba "Enter Vehicle Data".
+[2025-04-01T17:13:47.262Z] - Teste concluído com sucesso.
+[2025-04-01T17:13:47.263Z] - Teste concluído com sucesso.
+[2025-04-01T17:16:33.899Z] - Página carregada com sucesso.
+[2025-04-01T17:16:33.945Z] - Validação do campo "Make" concluída.
+[2025-04-01T17:16:34.333Z] - Formulário preenchido na aba "Enter Vehicle Data".
+[2025-04-01T17:16:34.498Z] - Teste concluído com sucesso.
+[2025-04-01T17:16:34.499Z] - Teste concluído com sucesso.
+[2025-04-01T19:29:31.189Z] - Página carregada com sucesso.
+[2025-04-01T19:29:31.236Z] - Validação do campo "Make" concluída.
+[2025-04-01T19:29:31.662Z] - Formulário preenchido na aba "Enter Vehicle Data".
+[2025-04-01T19:29:31.837Z] - Teste concluído com sucesso.
+[2025-04-01T19:29:31.838Z] - Teste concluído com sucesso.
+[2025-04-02T01:13:13.484Z] - Página carregada com sucesso.
+[2025-04-02T01:13:13.535Z] - Validação do campo "Make" concluída.
+[2025-04-02T01:13:13.941Z] - Formulário preenchido na aba "Enter Vehicle Data".
+[2025-04-02T01:13:14.115Z] - Teste concluído com sucesso.
+[2025-04-02T01:13:14.116Z] - Teste concluído com sucesso.

@@ -1,0 +1,7 @@
+selenium-Automacao/
+|-- page_objects/
+|   |-- VehicleDataPage.js
+|   |-- InsurantDataPage.js
+|-- tests/
+|   |-- AutomacaoTest.js
+|-- package.json

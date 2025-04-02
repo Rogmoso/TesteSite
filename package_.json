@@ -1,0 +1,19 @@
+{
+  "name": "selenium-automacao",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --timeout 10000 tests/*.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "selenium-webdriver": "^4.30.0"
+  },
+  "devDependencies": {
+    "allure-commandline": "^2.33.0",
+    "mocha": "^11.1.0"
+  }
+}
